@@ -17,7 +17,7 @@ Podes contribuir ao clicar no botão `Edit this page` no fim de qualquer página
 
 ## Links úteis
 
-- [EdenBox](https://www.edenbox.org/) - Testes, fichas e muito mais de todas as UCs de LEIC
+- [EdenBox](https://www.edenbox.org/) ou [Mega](https://mega.nz/folder/rToyUQaR#l1U3G29el897vRQD2ldNBw) - Testes, fichas e muito mais de todas as UCs de LEIC
 - [Fónix Fórum](https://fonix.rafael.ovh/) - Fórum do Rafael Girão para partilhar recursos
 - [IST Space Finder](https://ist-space-finder.vercel.app) - Find your way around the IST campi - Offline Web App made by Diogo Correia
 - [Caderno Rúben Nobre](https://www.notion.so/LEIC-A-166d76e0ca1943a498c6460c91c34e93) - Todas as UCs, incluindo **Probabilidades e Estatística**
