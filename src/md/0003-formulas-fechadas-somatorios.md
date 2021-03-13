@@ -286,7 +286,7 @@ Como mnemónica, escreve-se o último termo no denominador primeiro porque coinc
 
 ::: details Exemplos
 
-$$u_{n}^{\underline{-2}} = \frac{1}{(n+1)(n+2)}$$
+$$(n)^{\underline{-2}} = \frac{1}{(n+1)(n+2)}$$
 
 ---
 
