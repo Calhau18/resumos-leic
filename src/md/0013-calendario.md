@@ -65,6 +65,8 @@ Os calendários `Gregoriano` e `Juliano` têm, entre si, uma fórmula diferente 
 Isto deve-se ao facto de terem anos bissextos diferentes.  
 Segue-se a fórmula para cada um destes calendários.
 
+**Nota:** Nos cálculos do número dominical, supostamente o ano "começa" em março. Portanto, em anos bissextos, o número dominical não dá o dia do primeiro domingo do ano (normal) mas o dia do primeiro sábado do ano.
+
 #### Juliano
 
 Para um ano $\lambda_j$, o `número dominical` $N_j$ é dado por:
